@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ContextCueSDK'
   s.module_name      = 'ContextCueSDK'
-  s.version          = '$BITRISE_GIT_TAG'
+  s.version          = 'GIT_TAG'
   s.license          = { :type => 'Apache-2.0', :file => 'LICENSE' }
   s.homepage         = 'https://github.com/contextcue/contextcue-sdk-ios'
   s.authors          = { 'ContextCue' => 'support@contextcue.com' }
