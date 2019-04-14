@@ -1,3 +1,6 @@
+## Version 1.0.2 (April 14, 2019)
+Fix framework build
+
 ## Version 1.0.1 (April 14, 2019)
 - Bug Fixes
   - Default refresh rate is now properly set at 120 seconds
