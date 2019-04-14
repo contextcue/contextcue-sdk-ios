@@ -1,3 +1,6 @@
+## Version 1.0.3 (April 14, 2019)
+Fix cocoapods swift_version
+
 ## Version 1.0.2 (April 14, 2019)
 Fix framework build
 

@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ContextCueSDK'
   s.module_name      = 'ContextCueSDK'
-  s.version          = 'GIT_TAG'
+  s.version          = '1.0.3'
   s.license          = { :type => 'Apache-2.0', :file => 'LICENSE' }
   s.homepage         = 'https://github.com/contextcue/contextcue-sdk-ios'
   s.authors          = { 'ContextCue' => 'support@contextcue.com' }
@@ -21,5 +21,5 @@ DESC
     'UIKit'
   ]
   s.source_files = 'ContextCueSDK/**/*.{h,swift}'
-  s.swift_versions = ['4.0', '4.1', '4.2', '5.0']
+  s.swift_version = '4.2'
 end
