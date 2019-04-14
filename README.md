@@ -12,7 +12,7 @@ Don't have an account? [Get started](https://adstudio.contextcue.com/register)
 ## Installation
 The ContextCueSDK provides multiple methods for installing the library into an application
 
-### CocoaPods (Recommended)
+### CocoaPods
 [CocoaPods](https://cocoapods.org) is a dependency manager for both Swift and Objective-C Cocoa projects, which automates and simplifies the process of using 3rd-party libraries like the ContextCueSDK in your projects. You can install it with the following command:
 ```
 $ gem install cocoapods
@@ -30,12 +30,6 @@ Then run
 ```
 $ pod install
 ```
-
-### Dynamic Framework Linking
-ContextCue provides a prepackaged archive of the dynamic framework, which can be downloaded below. This is a fully featured version, with no differences from the CocoaPod version
-- [ContextCueSDK Framework](https://github.com/contextcue/contextcue-sdk-ios/releases/latest/download/ContextCueSDK.zip)
-
-Add the dynamic framework to the target's Embedded Binaries section of the General tab
 
 ## Integration
 There are a few ways to integrate ContextCue ads into your application
