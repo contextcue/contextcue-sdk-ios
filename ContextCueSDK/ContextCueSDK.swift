@@ -22,7 +22,7 @@ public class ContextCueSDK {
 		self.adFetch.fetch(identifier, slot: slot, completion: completion)
 	}
 	
-	private var _refreshInterval = TimeInterval(15) // TODO: Revert this
+	private var _refreshInterval = TimeInterval(120)
 	public var refreshInterval: TimeInterval {
 		get {
 			return _refreshInterval
