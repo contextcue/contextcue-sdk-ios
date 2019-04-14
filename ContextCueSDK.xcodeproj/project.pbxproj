@@ -80,7 +80,7 @@
 		53427B1F225D616E00A289B0 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		53427B20225D731100A289B0 /* CCImageFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CCImageFetch.swift; sourceTree = "<group>"; };
 		53427B22225D827E00A289B0 /* CCAdBannerBaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CCAdBannerBaseView.swift; sourceTree = "<group>"; };
-		53427B26225E243400A289B0 /* ContextCueSDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ContextCueSDK.podspec; sourceTree = "<group>"; };
+		53427B26225E243400A289B0 /* ContextCueSDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ContextCueSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		53427B29225E971800A289B0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		53427B2B225EA05C00A289B0 /* CCCacheTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CCCacheTests.swift; sourceTree = "<group>"; };
 		5397431922595EE9006E1951 /* ContextCueSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ContextCueSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };

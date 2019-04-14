@@ -33,7 +33,7 @@ $ pod install
 
 ### Dynamic Framework Linking
 ContextCue provides a prepackaged archive of the dynamic framework, which can be downloaded below. This is a fully featured version, with no differences from the CocoaPod version
-- [ContextCueSDK Framework](https://github.com/contextcue/contextcue-sdk-ios/releases/download/1.0.0/contextcue-sdk-ios-1.0.0.zip)
+- [ContextCueSDK Framework](https://github.com/contextcue/contextcue-sdk-ios/releases/latest/download/ContextCueSDK.zip)
 
 Add the dynamic framework to the target's Embedded Binaries section of the General tab
 
