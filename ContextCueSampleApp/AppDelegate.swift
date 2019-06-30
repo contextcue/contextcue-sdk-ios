@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 		// Override point for customization after application launch.
-		ContextCueSDK.shared.identifier = "5a9aa6bf-70ee-466f-8f9a-5c954d5dbc53"
+		ContextCueSDK.shared.identifier = "886fd17c-b3bd-43ad-8d1b-5078d78dac01"
 		return true
 	}
 
