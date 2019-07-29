@@ -7,6 +7,7 @@
 //
 
 import os.log
+import UIKit
 
 extension OSLog {
 	private static var subsystem = Bundle.main.bundleIdentifier!

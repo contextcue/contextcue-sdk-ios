@@ -103,6 +103,7 @@
 		53974359225AA8B9006E1951 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5397435B225AA8B9006E1951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53974363225AA95F006E1951 /* ContextCueSDK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextCueSDK.swift; sourceTree = "<group>"; };
+		53CEFFFA22EE75A700B7365F /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Package.swift; path = "../../../../System/Volumes/Data/Users/jacobroschen/repos/mobile-sdk-ios/Package.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +159,7 @@
 				53427B1F225D616E00A289B0 /* CHANGELOG.md */,
 				53427B29225E971800A289B0 /* LICENSE */,
 				53427B1E225D5E6500A289B0 /* README.md */,
+				53CEFFFA22EE75A700B7365F /* Package.swift */,
 				5397431B22595EE9006E1951 /* ContextCueSDK */,
 				5397432622595EEA006E1951 /* ContextCueSDKTests */,
 				5397434E225AA8B6006E1951 /* ContextCueSampleApp */,

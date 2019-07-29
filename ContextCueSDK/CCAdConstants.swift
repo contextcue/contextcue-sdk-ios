@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 public enum AdSize: Int, CaseIterable {
 	case MobileLeaderboard = 7

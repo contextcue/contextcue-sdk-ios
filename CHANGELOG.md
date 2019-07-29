@@ -1,3 +1,6 @@
+## Version 1.0.4 (July 28th, 2019)
+Add Swift Package Manager support
+
 ## Version 1.0.3 (April 14, 2019)
 Fix cocoapods swift_version
 
